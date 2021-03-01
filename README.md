@@ -14,7 +14,7 @@ It can't track multiple notes at once or even detect chords. It doesn't work if 
 
 ## Download
 
-[Download Windows Version](https://www.dropbox.com/s/vslhfspumk18gyu/PitchTracker_V0.2.zip?dl=0)
+[Windows Download](https://www.dropbox.com/s/vslhfspumk18gyu/PitchTracker_V0.2.zip?dl=0)
 
 ## Installation
 
