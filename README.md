@@ -28,6 +28,10 @@ If it doesn't work, try changing the device id and silence threshold in the conf
 
 **Note:** This is still a very early version, so there likely will be some issues.
 
+## Source Code?
+
+Maybe in the future, once this is a bit further along.
+
 ## Screenshot
 
 ![](screenshot.jpg)
