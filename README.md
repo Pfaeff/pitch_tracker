@@ -1,6 +1,6 @@
 ![](logo_with_text.png)
 
-Real-time instrument or vocal pitch tracker - Version 0.2
+# Real-time instrument or vocal pitch tracker - Version 0.2
 
 ![](screenshot.jpg)
 
@@ -15,7 +15,7 @@ It can't track multiple notes at once or even detect chords. It doesn't work if 
 
 ## Download
 
-[Windows Download](https://www.dropbox.com/s/vslhfspumk18gyu/PitchTracker_V0.2.zip?dl=0)
+[Windows Download](https://www.dropbox.com/s/vslhfspumk18gyu/PitchTracker_V0.2.zip?dl=1)
 
 ## Installation
 
