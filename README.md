@@ -2,8 +2,6 @@
 
 # Real-time instrument or vocal pitch tracker - Version 0.2
 
-![](screenshot.jpg)
-
 ## What it does
 
 This tool tracks pitch changes of a single instrument over time.
@@ -26,3 +24,7 @@ It can't track multiple notes at once or even detect chords. It doesn't work if 
 
 Sing or play into your microphone or audio device. 
 If it doesn't work, try changing the device id and silence threshold in the config file.
+
+## Screenshot
+
+![](screenshot.jpg)
