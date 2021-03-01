@@ -10,7 +10,7 @@ You can also use it as a tuner.
 
 ## What it doesn't
 
-It can't track multiple notes at once or even detect chords. It might not work if there is a lot of background noise.
+It can't track multiple notes simultaneously or even detect chords. It might also not work if there is a lot of background noise.
 
 ## Download
 
