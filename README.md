@@ -5,11 +5,11 @@
 ## What it does
 
 This tool tracks pitch changes of a single instrument over time.
-It can be useful for practising vocal intonation, guitar string bends, but it can also be used as a tuner.
+It can be useful for practising things like vocal intonation or guitar string bends. You can use it as a tuner as well.
 
 ## What it doesn't
 
-It can't track multiple notes at once or even detect chords. It doesn't work if there is a lot of background noise.
+It can't track multiple notes at once or even detect chords. It might not work if there is a lot of background noise.
 
 ## Download
 
