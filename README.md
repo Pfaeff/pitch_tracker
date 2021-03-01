@@ -25,6 +25,8 @@ It can't track multiple notes at once or even detect chords. It might not work i
 Sing or play into your microphone or audio device. 
 If it doesn't work, try changing the device id and silence threshold in the config file.
 
+**Note:** This is still a very early version, so there likely will be some issues.
+
 ## Screenshot
 
 ![](screenshot.jpg)
