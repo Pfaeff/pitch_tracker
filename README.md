@@ -5,7 +5,7 @@
 ## What it does
 
 This app tracks pitch changes of a single instrument over time.
-It can be useful for practising intonation, vibrato, slides or bends. It was designed with singing in mind, but it works just as well with instruments such as the guitar or violin. 
+It can be useful for practising intonation, vibrato, slides and bends. It was designed with singing in mind, but it works just as well with instruments such as the guitar or violin. 
 You can also use it as a tuner.
 
 ## What it doesn't
