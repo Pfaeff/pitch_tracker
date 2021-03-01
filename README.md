@@ -1,4 +1,4 @@
-![](logo.png)
+![](logo.png | width=720)
 Real-time instrument or vocal pitch tracker - Version 0.2
 
 ![](screenshot.jpg)
