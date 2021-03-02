@@ -16,6 +16,11 @@ It can't track multiple notes simultaneously or even detect chords. It might als
 
 [Windows](https://www.dropbox.com/s/vslhfspumk18gyu/PitchTracker_V0.2.zip?dl=1)
 
+### Why is this over 250MB in size?
+
+I didn't want to spend lots of time developing this, so I decided to use python and pyinstaller. 
+This allowed me to write most of it in a single afternoon, but it also resulted in a fairly large executable.
+
 ## Installation
 
 - Extract all files
